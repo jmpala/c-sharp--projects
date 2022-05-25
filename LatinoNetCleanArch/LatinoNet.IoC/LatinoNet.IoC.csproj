@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LatinoNet.Presenters\LatinoNet.Presenters.csproj" />
+    <ProjectReference Include="..\LatinoNet.RepositoryEFCore\LatinoNet.RepositoryEFCore.csproj" />
+    <ProjectReference Include="..\LatinoNet.UseCases\LatinoNet.UseCases.csproj" />
+  </ItemGroup>
+
+</Project>
