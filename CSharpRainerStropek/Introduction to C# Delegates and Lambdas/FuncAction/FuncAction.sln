@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncAction", "FuncAction\FuncAction.csproj", "{6AA8F5BE-6FED-4EBF-9398-177C268E995A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA8F5BE-6FED-4EBF-9398-177C268E995A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA8F5BE-6FED-4EBF-9398-177C268E995A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA8F5BE-6FED-4EBF-9398-177C268E995A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA8F5BE-6FED-4EBF-9398-177C268E995A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
