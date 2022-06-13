@@ -16,5 +16,13 @@
 |  | [video-2](https://www.youtube.com/watch?v=tNLdFteXT6k) |
 |  | [video-3](https://www.youtube.com/watch?v=2oNhVmUda_U) |
 | [Entity Framework Introduction](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/EntityFrameworkIntro) | [video-1](https://www.youtube.com/watch?v=7jcLliJvMcY) |
+| [EntityFrameworkAdvance](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/EntityFrameworkAdvance) | [video-1](https://www.youtube.com/watch?v=o9XoiPPP2Lw) |
+| [EntityFrameworkRelations](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/EntityFrameworkRelations) | [video-1](https://www.youtube.com/watch?v=ln8--UDJaqM) |
+| [ASP.NET The Fundamentals](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/VideoGameManager) | [video-1](https://www.youtube.com/watch?v=ntduhJkQLe4) |
+|  | [video-2](https://www.youtube.com/watch?v=C6sXxTaTff8) |
+|  | [video-3](https://www.youtube.com/watch?v=bCnbhB1Yo7Q) |
+|  | |
+|  | |
+|  | |
 |  | |
 |  | |
