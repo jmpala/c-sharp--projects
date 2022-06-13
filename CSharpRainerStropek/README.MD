@@ -12,6 +12,9 @@
 | [Async](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/Async) | [video-1](https://www.youtube.com/watch?v=FIZVKteEFyk) |
 |  | [video-2](https://www.youtube.com/watch?v=S49dpEwMSUY) |
 |  | [video-3](https://www.youtube.com/watch?v=By2HlOKIZxs) |
+| [LINQ](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/HelloLinq) | [video-1](https://www.youtube.com/watch?v=TeGwezv1z20) |
+|  | [video-2](https://www.youtube.com/watch?v=tNLdFteXT6k) |
+|  | [video-3](https://www.youtube.com/watch?v=2oNhVmUda_U) |
+| [Entity Framework Introduction](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/EntityFrameworkIntro) | [video-1](https://www.youtube.com/watch?v=7jcLliJvMcY) |
 |  | |
 |  | |
-
