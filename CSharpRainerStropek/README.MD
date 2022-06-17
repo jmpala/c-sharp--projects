@@ -21,6 +21,11 @@
 | [ASP.NET The Fundamentals](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/VideoGameManager) | [video-1](https://www.youtube.com/watch?v=ntduhJkQLe4) |
 |  | [video-2](https://www.youtube.com/watch?v=C6sXxTaTff8) |
 |  | [video-3](https://www.youtube.com/watch?v=bCnbhB1Yo7Q) |
+| [Delete Behaviors](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/EventManagmentApi) | [video-1](https://www.youtube.com/watch?v=_3QiR07dfL4) |
+| Recap Important Aspects Of HTTP | [video-1](https://www.youtube.com/watch?v=ODfdeRUov4I&t=126s) |
+| Designing Web APIs with Swagger aka OpenAPI Specification | [video-1](https://www.youtube.com/watch?v=l-6cNIVMk6Q) |
+| [Dependency Injection, RESTful Web APIs, Generating Swagger](https://github.com/jmpala/c-sharp--projects/tree/main/CSharpRainerStropek/AdressBook) | [video-1](https://www.youtube.com/watch?v=ksy8LK5M1Ts&t=1s) |
+|  | |
 |  | |
 |  | |
 |  | |
